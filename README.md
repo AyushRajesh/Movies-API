@@ -35,7 +35,7 @@ The more detail the better here, but if I at least hear:
 
 # About Project
 
-I have created a REST API which retrieve, update, delete, create  movie records in the book database. Movie records contains name of movie, actor, actress, year of release, director of the movie. We use request methods such as GET, POST, PUT, DELETE to perform operations on the book records stored in the database by HTTP Response. I have made this entire project in Python using Flask and MYSQL Database.
+I have created a REST API which retrieve, update, delete, create  movie records in the movies database. Movie records contains name of movie, actor, actress, year of release, director of the movie. We use request methods such as GET, POST, PUT, DELETE to perform operations on the movie records stored in the database by HTTP Response. I have made this entire project in Python using Flask and MYSQL Database.
 
 ## Run install
 
