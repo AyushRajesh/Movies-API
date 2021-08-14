@@ -54,7 +54,7 @@ To run the API, we need to install some module
   ```PYTHON
  pip install Pymysql
  ```
- ## RUN school
+ ## RUN movies
  
   ```PYTHON
  python movies.py
